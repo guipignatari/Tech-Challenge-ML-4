@@ -31,8 +31,7 @@ Além da construção e treinamento do modelo, o projeto contempla o desenvolvim
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
-    cd <NOME_DA_PASTA>
+    git clone git@github.com:guipignatari/Tech-Challenge-ML-4.git
     ```
 
 2.  **Construa a imagem Docker:**
